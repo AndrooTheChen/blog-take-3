@@ -1,5 +1,5 @@
 import "./topbar.css"
-import megumi from '../MegumiJinno_1.png'
+import megumi from '../assets/MegumiJinno_1.png'
 
 export default function TopBar() {
     return (
