@@ -1,4 +1,4 @@
-import about_megumi from "../assets/moar-megumi.jpeg"
+import about_megumi from "../../assets/moar-megumi.jpeg"
 import "./sidebar.css"
 
 export default function Sidebar() {

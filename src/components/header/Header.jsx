@@ -1,5 +1,5 @@
 import "./header.css"
-import homepage from "../assets/planets.jpg"
+import homepage from "../../assets/planets.jpg"
 
 export default function header() {
     return (
