@@ -13,7 +13,7 @@ export default function Settings() {
                 <form className="settingsForm">
                     <label>Profile Picture</label>
                     <div className="settingsPP">
-                        <img src={megu_img} />
+                        <img src={megu_img} alt="" />
                         <label htmlFor="fileInput">
                             <i className="settingsPPIcon far fa-user-circle"></i>
                         </label>
